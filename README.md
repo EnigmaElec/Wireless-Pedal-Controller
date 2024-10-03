@@ -11,6 +11,6 @@ Firmware Flasher
 5. Set Baudrate as desire by default the baudrate is 921600
 ![Baudrate can be Change, but can use default too in 921600 by just pressing enter](https://raw.githubusercontent.com/EnigmaElec/Wireless-Pedal-Controller-Windows/refs/heads/main/image)
 ![Flashing Progress](https://raw.githubusercontent.com/EnigmaElec/Wireless-Pedal-Controller-Windows/refs/heads/main/images/flashing%20progress.bmp)
-![Flashing is complete](https://raw.githubusercontent.com/EnigmaElec/Wireless-Pedal-Controller-Windows/refs/heads/main/images/Complet)
+![Flashing is complete](https://raw.githubusercontent.com/EnigmaElec/Wireless-Pedal-Controller-Windows/refs/heads/main/images/Complete.bmp)
    
 

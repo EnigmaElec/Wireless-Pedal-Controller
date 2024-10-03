@@ -18,4 +18,8 @@ Firmware Flasher
 ![Flashing Progress](https://raw.githubusercontent.com/EnigmaElec/Wireless-Pedal-Controller-Windows/refs/heads/main/images/flashing%20progress.bmp)</br>
 ![Flashing is complete](https://raw.githubusercontent.com/EnigmaElec/Wireless-Pedal-Controller-Windows/refs/heads/main/images/Complete.bmp)</br>
    
-
+# Troubleshoot
+1. When Device not detected in Device Manager check the USB cable make sure it has 4 wire V+ D+ D- And GND
+2. Flashing Error Check 3 Binary files in correct folder and the Exe is right ( next Check Python path and esptool iss installed)
+3. See Error during Flashing ( Reset Device in left hole from the top view) and flash it again)
+4. Device is not detected and flashing err (Contact supplier for further information)

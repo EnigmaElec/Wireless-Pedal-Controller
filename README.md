@@ -1,6 +1,9 @@
 # Wireless-Pedal-Controller
 Firmware Flasher
+
 ![](https://github.com/EnigmaElec/Wireless-Pedal-Controller-Windows/blob/main/images/pedal.jpeg)
+
+
 # How to :
 1. Download Files or use git clone https://github.com/EnigmaElec/Wireless-Pedal-Controller-Windows.git </br>
 2. Put Folder into Desktop</br>
